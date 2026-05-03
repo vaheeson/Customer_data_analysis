@@ -99,8 +99,8 @@ This project demonstrates an end-to-end data analytics workflow, starting from r
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-link>
-cd <project-folder>
+git clone [your-repo-link](https://github.com/vaheeson/Customer_data_analysis.git)
+cd Customer_data_analysis
 ```
 
 ### 2. Install Dependencies
